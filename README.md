@@ -1,22 +1,19 @@
+<h5 align="center"> Hello There 👋, I am</h5>
+<h2 align="center"> Arun Pandian R </h2>
 <div align="center">
-<img src='https://github.com/arunpandian7/arunpandian7/blob/master/transparent-logo.png'  width="50" />
+😃Welcome you to my GitHub repository, 🏠 home of all my projects and works.
 </div>
 
-Hello there :smile: , I am
-## Arun Pandian R 😀
+### Who am I ? 🤔
 
-Welcome to my Repository of precious codes. 
+I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scientist👨‍🔬 and DL Junior Research working with some state-of-the-art AI technologies🌟 across various disciplines to solve many engineering problems.
 
-### Things I love to do 🥰
-- Training **Deep Learning** Models 👨‍🔬
-- Gathering Insights using **Data Science** 📈
-- Building **AI Web Applications** 👨‍💻
-- Debugging **Problems** 💻
+### Connect with me
 
-### My Tech Arsenal 🏰
-- PyTorch
-- TensorFlow
-- HTML5 / CSS3
-- node.js
-- ReactJS
-- Django
+<p align="left">
+<a  href=""><img align="center"  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a  href=""><img align="center"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a  href=""><img align="center"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a  href=""><img align="center"  src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a  href="mailto:arunpandian.srk@gmail.com"><img align="center"  src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>

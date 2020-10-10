@@ -4,23 +4,17 @@
 </p>
 <h2 align="center"> Arun Pandian R </h2>
 <p align="center">
-😃Welcome you to my GitHub repository, 🏠 home of all my projects and works.
+😃You found my 🏠 home of all my projects and works.
+</p>
+
+<h4 align="center">Say hello to your friend</h3>
+<p align="center">
+<a href="https://twitter.com/arunpandian_r10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@arunpandian_r10" height="20" width="30" /></a><a href="https://linkedin.com/in/arunpandian-rk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://kaggle.com/arunrk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arunrk7" height="20" width="30" /></a><a href="https://instagram.com/arun_rk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arun_rk7" height="20" width="30" /></a><a href="https://medium.com/@arunrk7.leo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arunrk7.leo" height="20" width="30" /></a><a href="https://www.youtube.com/c/arunrathina5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arunrathina5" height="20" width="30" /></a><a href="https://www.hackerrank.com/arunpandian7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arunpandian7" height="20" width="30" /></a>
 </p>
 
 ### Who am I ? 🤔
 
-I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scientist👨‍🔬 and DL Junior Research working with some state-of-the-art AI technologies🌟 across various disciplines to solve many engineering problems.
-
-### Connect with me
-
-<p align="left">
-<a  href="http://twitter.com/arunpandian_rk7"><img align="center"  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a  href="http://linkedin.com/arunpandian-rk7"><img align="center"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a  href="https://www.instagram.com/arun_rk7/"><img align="center"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a  href="https://medium.com/@arunrk7.leo"><img align="center"  src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a  href="http://kaggle.com/arunrk7"><img align="center"  src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a  href="mailto:arunpandian.srk@gmail.com"><img align="center"  src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scientist👨‍🔬 and DL Junior Researcher working with some state-of-the-art AI technologies🌟 across various disciplines to solve many engineering problems.
 
 ### 👨‍💻 I write my codes in
 <!-- Thanks to Alexandre, check out his repo for badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -39,3 +33,7 @@ I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scie
 <p align="center">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />  <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
 </p> 
+
+<details>
+<summary> Get to know me better </summary>
+</details>

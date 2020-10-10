@@ -25,7 +25,7 @@ I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scie
 ### 👨‍💻 I write my codes in
 <!-- Thanks to Alexandre, check out his repo for badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=%2300000"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 ### 💪 My Strongholds
 <p align="center">
@@ -34,13 +34,8 @@ I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scie
 <p align="center">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-</p>
-
 
 ### 🔨 My Dev toolkit
 <p align="center">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />  <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+</p> 

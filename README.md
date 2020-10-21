@@ -35,5 +35,16 @@ I am Arun Pandian R, a self-motivated developer👨‍💻, passionate Data Scie
 </p> 
 
 <details>
-<summary> Get to know me better </summary>
+<summary> <strong> Get to know me better </strong> </summary>
+
+## ❤ Things I love
+- Everything Tech and Science. You can say, I am pretty much a geek in new Tech products and an hardcore enthusiast.
+- Hollywood Movies and TV Show. I binge watch every pop culture movies and shows from all time.
 </details>
+
+
+## 📈 My Stats
+<p align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunpandian7&show_icons=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpandian7&layout=compact&theme=dark">
+<p/>

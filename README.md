@@ -23,14 +23,11 @@ I am Arun Pandian R. I am a self-motivated Developer👨‍💻, passionate Data
 
 ### 💪 My Strongholds & Favourites
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <br> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/>  
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-black?&style=for-the-badge&logo=pytorch&logoColor=red"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/>  
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/FastAPI-white?&style=for-the-badge&logo=fastapi"/>
-</p>
-
-<p align="center">
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 </p>
 
@@ -47,7 +44,7 @@ I am Arun Pandian R. I am a self-motivated Developer👨‍💻, passionate Data
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<!-- <details> -->
+<details>
 <summary> <strong> Get to know me better </strong> </summary>
 
 ## ❤ Things I love
